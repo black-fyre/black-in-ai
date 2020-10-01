@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "M Sung Gold PRC";
+    src: url("//db.onlinewebfonts.com/t/9858825add5dfc27e04714fda690b1ea.eot");
+    src: url("//db.onlinewebfonts.com/t/9858825add5dfc27e04714fda690b1ea.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/9858825add5dfc27e04714fda690b1ea.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/9858825add5dfc27e04714fda690b1ea.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/9858825add5dfc27e04714fda690b1ea.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/9858825add5dfc27e04714fda690b1ea.svg#M Sung Gold PRC") format("svg");
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1, h2, h4, h5{
+    font-family: 'Roboto Slab', serif;
+}
+/*Blue background on membership page*/
+#bai-bg-blue{
+    background-color: #007299 !important;
+}
+#bai-txt-blue{
+     color: #007299 !important;
+}
+#bai-txt-black{
+    color: #000000 !important;
+}
+#bai-bg-black{
+    background-color: #1f2421 !important;
+}
+#bai-bg-light-blue {
+    background-color: #e8f6fb !important;
+}
+#bai-bg-orange{
+    background-color: #f18f01 !important;
+}
